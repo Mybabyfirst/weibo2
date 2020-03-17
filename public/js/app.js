@@ -49523,6 +49523,8 @@ Vue.component('example-component', __webpack_require__(/*! ./components/ExampleC
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
+__webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
+
 var app = new Vue({
   el: '#app'
 });
